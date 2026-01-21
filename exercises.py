@@ -18,4 +18,4 @@ l = [52633, 8137, 1024, 999]
 for num in l:
     print(f"Factors of {num}:")
     print_factor(num)
-    print("-" * 30)  # 分隔线让输出更清晰
+    print("-" * 30)  # divider line
